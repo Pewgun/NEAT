@@ -1,6 +1,6 @@
 # NEAT
 
-This is a python implementation of the NEAT algorithm(link = http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf).
+This is a python implementation of the NEAT algorithm(http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf).
 
 Main.py contains code on how the algorithm can be used to solve the XOR problem. 
 
