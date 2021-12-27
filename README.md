@@ -10,6 +10,6 @@ When executed it shows visual analysis of the learnining process:
 3. the brain map of the best performing individual at the end of learning stage
 4. the neural net of the best performing individual at the end of learning stage 
 
-And finally it also indludes the final predictions for each training instance.
+And finally it also includes the final predictions for each training instance.
 
 Other files contain the NEAT algorithm.
